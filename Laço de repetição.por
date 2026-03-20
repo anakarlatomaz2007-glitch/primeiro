@@ -1,0 +1,10 @@
+
+programa {
+    funcao inicio() {
+        para (inteiro i = 1; i <= 5; i++) {
+            escreva("churros: ", i, "\n")
+        }
+        escreva("mundo novo!")
+    }
+}
+            
